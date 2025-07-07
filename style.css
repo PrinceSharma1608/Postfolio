@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+#center {
+  font-family: 'Pirata One', cursive;
+  text-align: center;
+   white-space: nowrap;
+  overflow: hidden; white-space: nowrap;
+  overflow: hidden;
+   font-size: 6vw;
+
+}
